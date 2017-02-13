@@ -1,20 +1,59 @@
+
+@import url(https://fonts.googleapis.com/css?family=Pangolin);
+
 body { 
-	  background-image: url('https://images.unsplash.com/photo-1472419551702-dc4862cad8f9?dpr=1&auto=compress,format&fit=crop&w=991&h=661&q=80&cs=tinysrgb&crop=');
+	 font-family: 'Pangolin',serif;
+
+ background-image: url('https://images.unsplash.com/photo-1472419551702-dc4862cad8f9?dpr=1&auto=compress,format&fit=crop&w=991&h=661&q=80&cs=tinysrgb&crop=');
   background-size: cover;
   margin-left: auto;
   margin-right:auto;
+  color: red;
 	
 
 		} 
 
 
 
-h1 {
-	 font-size: 1000%;
+#intro{
+  margin-left: auto;
+  margin-right:auto;
 
-	 
-    border-bottom: 2px solid red;
-    text-align: center;
+	
+}
+
+
+
+
+h1 {
+	 font-size: 500%;
+	 text-align: center;
+
     
 
 }
+
+
+h2 {
+	 font-size: 300%;
+	 text-align: center;
+	 color: green;
+    
+
+}
+
+iframe	 {  
+
+display: block;
+margin: 0 auto;
+}
+
+
+
+#back-to-top{
+display: block;
+margin: 0 auto;
+
+
+}
+
